@@ -1,0 +1,1 @@
+# sts-benchmark-swedish
