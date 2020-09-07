@@ -14,5 +14,5 @@ how similar s1 and s2 are, returning a similarity score between 0 and
 from several domains and genres, annotated by crowdsourcing. See
 papers by Agirre et al. (2012; 2013; 2014; 2015; 2016; 2017).
 
-#Current version (2020/09/07):
-1.0 - Translated using Googles NMT API (No correction of potential translation errors)
+## Version 1.0 (2020/09/07):
+Translated using Googles NMT API (No human correction of potential translation errors)
